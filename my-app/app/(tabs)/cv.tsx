@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { StyleSheet, ScrollView, View, Text, TouchableOpacity, Linking } from 'react-native';
 import { ThemedView } from '@/components/themed-view';
 import { ThemedText } from '@/components/themed-text';
